@@ -1,0 +1,19 @@
+{
+  "name": "mdominguez.net",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opeshm/mdominguez.net.git"
+  },
+  "author": "Mario Dominguez",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/opeshm/mdominguez.net/issues"
+  },
+  "homepage": "https://github.com/opeshm/mdominguez.net#readme"
+}
